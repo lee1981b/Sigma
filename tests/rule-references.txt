@@ -4113,3 +4113,15 @@ https://twitter.com/th3_protoCOL/status/1480621526764322817
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/schtasks-create
 https://gtfobins.github.io/gtfobins/nawk/#shell
+https://cloud.google.com/blog/topics/threat-intelligence/alphv-ransomware-backup/
+https://cloud.google.com/blog/topics/threat-intelligence/evolution-of-fin7/
+https://strontic.github.io/xcyclopedia/library/dialer.exe-0B69655F912619756C704A0BF716B61F.html
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-granted-highly-privileged-permissions
+https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/
+https://www.virustotal.com/gui/file/54d60fd58d7fa3475fa123985bfc1594df26da25c1f5fbc7dfdba15876dd8ac5/behavior
+https://github.com/redcanaryco/atomic-red-team/blob/75fa21076dcefa348a7521403cdd6bfc4e88623c/atomics/T1082/T1082.md
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage
+https://docs.microsoft.com/en-us/powershell/module/powershellwebaccess/install-pswawebapplication
+https://www.cisa.gov/stopransomware/ransomware-guide
+https://support.microsoft.com/en-us/office/data-security-and-python-in-excel-33cc88a4-4a87-485e-9ff9-f35958278327
+https://labs.watchtowr.com/palo-alto-putting-the-protecc-in-globalprotect-cve-2024-3400/
